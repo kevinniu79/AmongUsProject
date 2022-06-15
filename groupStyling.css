@@ -1,0 +1,11 @@
+body{
+    background-color:peachpuff; 
+}
+p{
+    list-style:square ;
+    color:aliceblue;
+    font-family:'Times New Roman';
+}
+#myList{
+    color:aliceblue;
+}

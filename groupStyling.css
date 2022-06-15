@@ -1,0 +1,25 @@
+p{
+    color: red;
+    background-color: black;
+    font-family: sans-serif;
+    padding: 10%;
+}
+img{
+    padding: 2%;
+}
+html{
+    background-color: yellow;
+}
+h1{
+    color: blue;
+    font-family: monospace;
+    font-size: 50px;
+}
+h3{
+    color: greenyellow;
+    font-family: impact;
+}
+ul{
+    color: aqua;
+    font-family: franklin gothic medium;
+}
